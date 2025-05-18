@@ -43,5 +43,5 @@ A classic memory game built with **HTML, CSS, and JavaScript**. Repeat the patte
     ├── style.css # Styling
     └── script.js # Game logic
 
-    Made with ❤️ by [Suchana Hazra](https://github.com/suchana4hazra)
+    Made with ❤️ by [Suchana Hazra](https://github.com/Suchana4Hazra)
 
